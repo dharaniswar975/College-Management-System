@@ -42,16 +42,6 @@ This project is a *comprehensive college management system* built using *Tiram.A
    
 3. Deploy the project using *Tiram.AI* and connect it with *Vercel*.
 
-## 🎯 Contributing
-- Fork the repository (if applicable)
-- Create a new branch (git checkout -b feature-name)
-- Commit your changes (git commit -m 'Add new feature')
-- Push to your branch (git push origin feature-name)
-- Submit a pull request
-
-## 📜 License
-This project is licensed under *MIT License*.
-
 ## 📞 Contact
 For queries, reach out at *gangarudharaniswarreddy@gmail.com* or open an issue on GitHub.
 
