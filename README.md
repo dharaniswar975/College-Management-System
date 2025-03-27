@@ -31,17 +31,6 @@ This project is a *comprehensive college management system* built using *Tiram.A
 - *Hosting:* Vercel
 - *Frontend & Backend:* AI-generated components using Tiram.AI
 
-## 📖 Setup & Installation
-1. Clone this repository (if applicable):
-   bash
-   git clone https://github.com/your-repo-name.git
-   
-2. Navigate to the project directory:
-   bash
-   cd your-repo-name
-   
-3. Deploy the project using *Tiram.AI* and connect it with *Vercel*.
-
 ## 📞 Contact
 For queries, reach out at *gangarudharaniswarreddy@gmail.com* or open an issue on GitHub.
 
